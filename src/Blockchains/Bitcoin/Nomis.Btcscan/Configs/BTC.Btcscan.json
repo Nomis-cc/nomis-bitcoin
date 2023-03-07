@@ -1,0 +1,17 @@
+{
+  "BtcscanSettings": {
+    "ApiBaseUrl": "https://btcscan.org/",
+    "BlockchainDescriptor": {
+      "ChainId": 111124,
+      "ChainName": "Bitcoin",
+      "BlockchainName": "Bitcoin",
+      "BlockchainSlug": "btc",
+      "BlockExplorerUrls": [
+        "https://btcscan.org/"
+      ],
+      "RPCUrls": null,
+      "IsEVMCompatible": false,
+      "SBTContractAddresses": null
+    }
+  }
+}
